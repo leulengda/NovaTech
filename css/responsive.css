@@ -66,7 +66,7 @@
 		padding-top:10px;
 	}
 	.about-img {
-		margin-right:15px;
+		position:center;
 	}
 }
 @media only screen and (max-width: 1199px) {
@@ -82,7 +82,7 @@
 		max-width: 100%;
 	}
 	.about-img {
-		margin-right:0;
+		position: center;
 	}
 	.welcome-title {
 		font-size:80px;
@@ -288,7 +288,7 @@
 		margin-top:0;
 	}
 	.about-img {
-		margin-bottom:10px;
+		margin-bottom:0px;
 	}
 	h1, h2 {
 		font-size:36px;
